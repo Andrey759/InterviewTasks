@@ -1,0 +1,10 @@
+.idea/
+*.iml
+out/
+target/
+*.txt
+*.dat
+
+Yandex/
+Eldorado/
+SRG/
